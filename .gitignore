@@ -1,1 +1,10 @@
 venv/
+DM2022-Lab2-Master-main/.ipynb_checkpoints/
+DM2022-Lab2-Master-main/GoogleNews/
+DM2022-Lab2-Master-main/venv/
+.ipynb_checkpoints/
+kaggle/.ipynb_checkpoints/
+kaggle/data/
+kaggle/venv/
+kaggle/model/
+kaggle/td.pkl
